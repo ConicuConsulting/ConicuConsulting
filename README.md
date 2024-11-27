@@ -114,3 +114,24 @@ Whether you’re here to explore, build, or contribute, you are part of this sym
 #### T0: Connection Progression
 ![Connection Progression](https://github.com/user-attachments/assets/9b41ed53-867b-40fd-ac77-3f0e1438b75e)
 
+## Core Loic
+
+![image](https://github.com/user-attachments/assets/7e51a69a-28f3-4f29-8b2c-1cef8ef5924c)
+
+
+## Calculation Logic
+
+![image](https://github.com/user-attachments/assets/851432ba-3108-4439-9f5f-e94e885e7c6d)
+
+## 4-Bit Architecture - True or False
+![image](https://github.com/user-attachments/assets/76843f14-ebaa-4d92-86fe-0ef538d07628)
+
+## 7-Bit Architecture - Decision Tree
+![image](https://github.com/user-attachments/assets/2b57ee59-5fa0-418c-9dd9-e0473c05f96a)
+
+## Decision Logic
+![image](https://github.com/user-attachments/assets/da6c5533-8765-41c5-8f59-519b13173e36)
+
+## Decision Tree
+![image](https://github.com/user-attachments/assets/911e427d-3a3e-4043-98dd-42b2258d7466)
+
