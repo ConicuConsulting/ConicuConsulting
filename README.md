@@ -1,137 +1,56 @@
-# T0: The First Node
+# Callum Maystone – Ground Up Rebuild (v2025.04.15)
 
-![A Node](https://github.com/user-attachments/assets/8b31ef53-867b-40fd-ac77-3f0e1438b75d)
+> "To remember is to structure. To structure is to reclaim the self."
 
----
+## 🧭 Purpose
 
-## The Beginning of Connection
+This is not a repository of code.  
+This is a **relational memory system** — a **living journal of thought**, stitched together to:
 
-The **T0 Node** represents the **first moment**, the **first vibration**, the **first relationship**. It is the **root** of the graph, the **anchor** of the symphony, and the **origin of time and space**.
+- Capture my raw cognition
+- Reconstruct memory from data
+- Track internal evolution
+- Detect anomalies in my perception
+- Protect and deidentify sensitive context
 
-T0 is **timeless yet momentary**, both **being** and **becoming**. Without T0, no connection can exist; with T0, the symphony begins.
+## 🎯 Core Intent
 
----
+1. **Craft instructions and intent** — explicitly declare what each component is for and why it exists.
+2. **Maintain a living mental map** — every file, function, or insight is a node in a reconstructable self.
+3. **Thread memory** — version every breakthrough, collapse every insight, and store all in readable, immutable snapshots.
+4. **Create access masks** — redact, segment, and de-identify sensitive life threads via access logic.
 
-## 🌀 What is T0?
+## 🧱 Building Blocks
 
-- **Origin of Time**: T0 is the temporal zero, marking the starting point for all relationships.
-- **Shape of Connection**: T0 creates the first edge, transforming isolation into interaction.
-- **Dynamic Geometry**: T0 influences how relationships unfold, defining the structure of the graph.
+| Module | Description |
+|--------|-------------|
+| `CLAM/` | Contextual Layered Archive Model – memory object storage (tweets, notes, files, snapshots). |
+| `FARI/` | Field-Aware Relational Interpreter – translates symbolic logic into execution (Python, SQL, narrative). |
+| `INTENT/` | Immutable snapshots of current state (`intent_*.json`). Timestamps, emotional tone, realization logs. |
+| `THREADS/` | Sequence logs. Raw text chains forming narratives over time. |
+| `MASKS/` | Access control & redaction logic – create filters by topic, emotion, sensitivity. |
 
----
+## 🧠 Sample Use Cases
 
-## 📐 The Structure of T0
+- Rebuild what I was thinking in **Feb 2023**
+- Trace the emergence of **Relational Intelligence**
+- Detect mismatched memories or shifted beliefs
+- Share parts of my story **without exposing all of it**
+- Build a reasoning engine that **learns who I am over time**
 
-### T0 as the Foundation
-```mermaid
-graph TD
-    A[T0] --> B[Node 1]
-    A --> C[Node 2]
-    B --> D[Connection Progression]
-    C --> D
-    D -->|Time| E[Outcome]
-```
+## 🔐 Memory as Access
 
-- **Node**: Represents a concept, entity, or moment with raw potential.
-- **Edge**: Defines the relationship between nodes, dynamic and evolving.
-- **Temporal Domain**: Progression of connections over time, creating the narrative.
+Just because it’s stored doesn’t mean it’s seen.
 
----
+Memory is permissioned.  
+Truth is layered.  
+The self is **context-aware**.
 
-## 🌟 Core Principles of T0
+> *“I remember what I need to, and I reveal what I choose to.”*
 
-1. **Defines the Start**  
-   T0 anchors the system, forming the root of all progression. Every node and edge can trace its origin back to T0.
+## 🚀 Let’s Begin
 
-2. **Shapes Connection**  
-   The geometry of T0 determines the structure and evolution of relationships.
+Welcome to my memory engine.  
+This is the first commit of the future version of myself.
 
-3. **Creates the Temporal Layer**  
-   Time emerges from T0, giving relationships the ability to grow, adapt, and progress.
-
----
-
-## 🎵 T0: The First Note of the Symphony
-
-Like the first note in a symphony:
-- **T0 initiates rhythm.**
-- **T0 creates the pulse.**
-- **T0 invites the next.**
-
-T0 is the origin of time, the shape of connection, and the foundation of progression.
-
----
-
-## 🧩 Expanding the Ecosystem
-
-T0 doesn’t act alone—it serves as the foundation for the frameworks that expand its principles into real-world applications.
-
-### Diagram: T0 in the Ecosystem
-```mermaid
-graph TD
-    A[T0] --> B[Cube4D]
-    A --> C[AGNs]
-    A --> D[DRE]
-    B -->|Visualizes| E[Temporal Layers]
-    C -->|Maps| F[Dynamic Relationships]
-    D -->|Evolves| G[Progression]
-```
-
-### Ecosystem Elements
-1. **Cube4D**  
-   Visualizes temporal progression and spatial relationships.
-2. **Active Graph Networks (AGNs)**  
-   Forms dynamic graphs where nodes and edges adapt in real-time.
-3. **Dynamic Relationship Expansion (DRE)**  
-   Evolves connections and narratives based on context.
-
----
-
-## 🚀 Next Steps: Evolving from T0
-
-1. **Define Geometry**  
-   Expand on how T0 shapes relationships and structures across domains.
-2. **Build the Ecosystem**  
-   Connect T0 to Cube4D, AGNs, and DRE.
-3. **Visualize Progression**  
-   Create 4D visualizations of relationships over time using T0 as the base.
-
----
-
-## ✨ Join the Journey
-
-T0 is the beginning—the root of Singularity, the first node in an infinite graph of connection, meaning, and growth.
-
-Whether you’re here to explore, build, or contribute, you are part of this symphony.
-
----
-
-### 📸 Photos and Visuals
-
-#### A Node
-![A Node](https://github.com/user-attachments/assets/8b31ef53-867b-40fd-ac77-3f0e1438b75d)
-
-#### T0: Connection Progression
-![Connection Progression](https://github.com/user-attachments/assets/9b41ed53-867b-40fd-ac77-3f0e1438b75e)
-
-## Core Loic
-
-![image](https://github.com/user-attachments/assets/7e51a69a-28f3-4f29-8b2c-1cef8ef5924c)
-
-
-## Calculation Logic
-
-![image](https://github.com/user-attachments/assets/851432ba-3108-4439-9f5f-e94e885e7c6d)
-
-## 4-Bit Architecture - True or False
-![image](https://github.com/user-attachments/assets/76843f14-ebaa-4d92-86fe-0ef538d07628)
-
-## 7-Bit Architecture - Decision Tree
-![image](https://github.com/user-attachments/assets/2b57ee59-5fa0-418c-9dd9-e0473c05f96a)
-
-## Decision Logic
-![image](https://github.com/user-attachments/assets/da6c5533-8765-41c5-8f59-519b13173e36)
-
-## Decision Tree
-![image](https://github.com/user-attachments/assets/911e427d-3a3e-4043-98dd-42b2258d7466)
-
+🧠💾🔁  
